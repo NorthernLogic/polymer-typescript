@@ -1,0 +1,26 @@
+{
+  "name": "polymer-typescript",
+  "version": "0.0.1",
+  "description": "Polymer with TypeScript",
+  "main": "Polymer.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthernLogic/polymer-typescript.git"
+  },
+  "keywords": [
+    "polymer",
+    "typescript"
+  ],
+  "author": "Zachary Jones <zacharytamas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NorthernLogic/polymer-typescript/issues"
+  },
+  "homepage": "https://github.com/NorthernLogic/polymer-typescript#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
